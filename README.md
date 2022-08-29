@@ -16,7 +16,8 @@ The app is structured into 3 folders: models to keep the database and note model
 No CRUD as of now, maybe forever, since the code is already so much of a mess that implemeting an update feature now is practically impossible (at least for myself), and that would be taken care of in the next project. 😜
 
 So far so good for the first project. I love Flutter already ❤️ 
-
-<img src="https://user-images.githubusercontent.com/49779365/183342029-9e9cfe90-454c-45c6-b91f-04b0254f6af5.png" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/49779365/183342607-c1025312-61fb-447f-8ee5-5077a933690f.png" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/49779365/183342726-ac16f3f9-4eb1-4f71-9133-0e37ce0110b2.png" width=30% height=30%>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/49779365/183342029-9e9cfe90-454c-45c6-b91f-04b0254f6af5.png" width=30% height=30%>
+  <img src="https://user-images.githubusercontent.com/49779365/183342607-c1025312-61fb-447f-8ee5-5077a933690f.png" width=30% height=30%>
+  <img src="https://user-images.githubusercontent.com/49779365/183342726-ac16f3f9-4eb1-4f71-9133-0e37ce0110b2.png" width=30% height=30%>
+</p>
